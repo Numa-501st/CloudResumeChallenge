@@ -293,7 +293,7 @@ setTimeout(function() {
 initProgram();
 
 function updateViewerCount() {
-   fetch('https://fd25frl4qinpvw36v3nb64twyq0prfyp.lambda-url.us-east-1.on.aws/')
+   fetch('x')
        .then(response => response.text())  // Parse response as text
        .then(data => {
            viewerCount = parseInt(data);  // Converts the response to an integer
