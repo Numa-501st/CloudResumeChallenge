@@ -6,7 +6,9 @@ This is my attempt at cloud resume challenge in AWS.
 
 ## Architecture
 
-![Architecture Diagram](/pictures/Screenshot 2023-10-03 120040.png)
+![Architecture Diagram](image.png)
+
+
 
 **Services Used**:
 
