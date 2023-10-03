@@ -6,7 +6,7 @@ This is my attempt at cloud resume challenge in AWS.
 
 ## Architecture
 
-![Architecture Screenshot](/img/AWS-CloudResumeChallnge-Architecture.png)
+![Architecture Screenshot](./img/AWS-CloudResumeChallnge-Architecture.png)
 
 
 
