@@ -15,6 +15,7 @@ This is my attempt at cloud resume challenge in AWS.
 - S3
 - AWS CloudFront
 - Certificate Manager
+- Route 53
 - AWS Lambda
 - Dynamo DB
 - GitHub Actions
