@@ -1,8 +1,4 @@
 # AWS Cloud Resume Challenge
-[![Upload Website](x)](x)
-
-This is my attempt at cloud resume challenge in AWS.
-
 
 ## Architecture
 
